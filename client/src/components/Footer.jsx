@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="footer_center">
         <h3>Useful Links</h3>
         <ul>
-          <li>About Us</li>
+          <li><a href="#">About Us</a></li>
           <li>Terms and Conditions</li>
           <li>Return and Refund Policy</li>
         </ul>
@@ -20,11 +20,13 @@ const Footer = () => {
         <h3>Contact</h3>
         <div className="footer_right_info">
           <LocalPhone />
-          <p>+1 234 567 890</p>
+          <p>9974676873</p>
+          <p>4676873</p>
         </div>
         <div className="footer_right_info">
           <Email />
-          <p>dreamnest@support.com</p>
+          <p>vanshika.2022@vitstudent.ac.in</p>
+          <p>smriti.doneria2022@vitstudent.ac.in</p>
         </div>
         <img src="/assets/payment.png" alt="payment" />
       </div>
